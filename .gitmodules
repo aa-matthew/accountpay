@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/zeverse/nfc_trade_2
+[submodule "backend"]
+	path = backend
+	url = https://github.com/quThinh/NFC-BE
+[submodule "contract"]
+	path = contract
+	url = https://github.com/quThinh/NFC-SmartContract
